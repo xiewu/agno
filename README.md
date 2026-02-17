@@ -10,7 +10,7 @@
 
 <p align="center">
   The programming language for agentic software.<br/>
-  Build multi-agent systems with streaming, memory, governance, and isolation built in.
+  Build multi-agent systems with streaming, memory, governance, and request isolation.
 </p>
 
 <div align="center">
@@ -74,7 +74,7 @@ Agno builds trust into the engine itself:
 
 ## Built for Production
 
-Agno is not a demo framework. It is designed for real systems.
+Agno is not a hobby project. It is designed for real systems.
 
 - 50+ APIs out of the box
 - Per-user session isolation
